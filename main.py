@@ -12,7 +12,7 @@ from src.Analysis import (
 def run_pipeline():
     
     print("=" * 60)
-    print("HEALTHCARE DATA ETL PIPELINE")
+    print("Healthcare Data ETL Pipeline")
     print("=" * 60)
     
     # Initialize Spark
